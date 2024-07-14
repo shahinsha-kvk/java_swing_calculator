@@ -135,7 +135,7 @@ public class calc implements ActionListener{
         jf.add(threeButton);
 
          zeroButton=new JButton("0");
-        zeroButton.setBounds(105, 45, 80, 80);
+        zeroButton.setBounds(105, 450, 80, 80);
         zeroButton.addActionListener(this);
         zeroButton.setBackground(Color.LIGHT_GRAY);
         zeroButton.setForeground(Color.black);  
